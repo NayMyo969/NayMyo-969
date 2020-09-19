@@ -19,7 +19,7 @@ pkg install git
 
 git clone [ My Github Link ]
 
-cd NayMyo.sh
+cd NayMyo-969
 
 pip3 install -r requirements.txt
 
